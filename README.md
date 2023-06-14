@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoundariyaAnanthan
-- 👀 I’m interested in ... Data
-- 🌱 I’m currently learning ... Power BI
+- 👀 I’m interested in ... Data Analysis
+- 🌱 I’m currently practicing ... Power BI and Tableau
 - 💞️ Welcome to my Page
 
 <!---
